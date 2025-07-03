@@ -29,7 +29,7 @@ An intelligent gate entry tracker system to manage real-time vehicle in/out trac
 🔹 Real-time vehicle tracking at organization gates  
 🔹 Date filtering, Excel export, and access control  
 🔹 Separate logs for company & regular vehicles    
-🔹 **Tech Used:** Node.js, Express.js, MySQL, HTML, CSS  
+🔹 **Tech Used:** Node.js, Express.js, SQL-SERVER, HTML, CSS  
 🔹 **Features:** Real-time duration tracking, Excel export, date-wise filtering, mobile-friendly, secure access
 
 #### 🧑‍💼 [Employee Management System](https://github.com/pournimaghude/EMPLOYEE_MANAGEMENT)

@@ -7,9 +7,8 @@ I'm passionate about building efficient, secure, and user-friendly software syst
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 
----
 
-### 🧠 Programming Languages
+### Programming Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -22,9 +21,8 @@ I'm passionate about building efficient, secure, and user-friendly software syst
   </a>
 </p>
 
----
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -43,9 +41,7 @@ I'm passionate about building efficient, secure, and user-friendly software syst
   </a>
 </p>
 
----
-
-### 🔧 Backend Development
+### Backend Development
 <p align="left">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -61,9 +57,8 @@ I'm passionate about building efficient, secure, and user-friendly software syst
   </a>
 </p>
 
----
 
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -82,9 +77,8 @@ I'm passionate about building efficient, secure, and user-friendly software syst
   </a>
 </p>
 
----
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -97,18 +91,16 @@ I'm passionate about building efficient, secure, and user-friendly software syst
   </a>
 </p>
 
----
-
-### 🧩 Concepts & Methodologies
+### Concepts & Methodologies
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-Fundamentals-informational?style=flat-square&color=blue" alt="SQL Fundamentals"/>
-  <img src="https://img.shields.io/badge/SDLC-Model-informational?style=flat-square&color=blue" alt="SDLC"/>
-  <img src="https://img.shields.io/badge/Agile-Process-informational?style=flat-square&color=blue" alt="Agile"/>
+  <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&color=blue" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SDLC-informational?style=flat-square&color=blue" alt="SDLC"/>
+  <img src="https://img.shields.io/badge/Agile-informational?style=flat-square&color=blue" alt="Agile"/>
   <img src="https://img.shields.io/badge/SAP-S%2F4HANA_ABAP-blue?style=flat-square" alt="S4HANA ABAP"/>
 </p>
 
 
-### 🔥 Featured Projects
+### Featured Projects
 
 #### 🚘 [GateTrack-VMS](https://github.com/pournimaghude/GateTrack-VMS)
 > *Smart, Secure & Scalable Vehicle Entry System*

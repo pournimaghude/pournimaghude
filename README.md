@@ -25,7 +25,7 @@ I'm passionate about building efficient, secure, and user-friendly software syst
 
 #### 🚘 [GateTrack-VMS](https://github.com/pournimaghude/GateTrack-VMS)
 > *Smart, Secure & Scalable Vehicle Entry System*
-An intelligent gate entry tracker system to manage real-time vehicle in/out tracking for organizations.
+An intelligent gate entry tracker system to manage real-time vehicle in/out tracking for organizations.<br>
 🔹 Real-time vehicle tracking at organization gates  
 🔹 Date filtering, Excel export, and access control  
 🔹 Separate logs for company & regular vehicles    
@@ -34,7 +34,7 @@ An intelligent gate entry tracker system to manage real-time vehicle in/out trac
 
 #### 🧑‍💼 [Employee Management System](https://github.com/pournimaghude/EMPLOYEE_MANAGEMENT)
 > *Spring Boot + JSP CRUD system*
-A complete Spring Boot + JSP-based employee CRUD system with email notifications.
+A complete Spring Boot + JSP-based employee CRUD system with email notifications.<br>
 🔹 Employee registration, login, update & delete  
 🔹 Email confirmation, validation, and search  
 🔹 **Tech Used:** Spring Boot, JSP, MySQL  

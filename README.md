@@ -5,7 +5,7 @@
 I'm passionate about building efficient, secure, and user-friendly software systems. I love learning new technologies and applying them to solve real-world problems. From frontend to backend to databases, I enjoy crafting full-stack web applications and continuously improving my skills.
 
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h2 align="left"> Languages and Tools:</h2>
 
 
 ### Programming Languages

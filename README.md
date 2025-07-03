@@ -5,21 +5,108 @@
 I'm passionate about building efficient, secure, and user-friendly software systems. I love learning new technologies and applying them to solve real-world problems. From frontend to backend to databases, I enjoy crafting full-stack web applications and continuously improving my skills.
 
 
-### 🛠️ Tech Stack & Tools
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=flat-square)  ![ABAP](https://img.shields.io/badge/-SAP%20ABAP-1d2951?style=flat-square&logo=sap&logoColor=white)
+<h3 align="left">🚀 Languages and Tools:</h3>
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)![JSP](https://img.shields.io/badge/-JSP-0074a2?style=flat-square)
+---
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+### 🧠 Programming Languages
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![JSON Server](https://img.shields.io/badge/-JSON--Server-000?style=flat-square)
+---
 
-**Tools:**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+### 🎨 Frontend Development
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🔧 Backend Development
+<p align="left">
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://jsp.javaee.dev.java.net/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/java-e-coffee-cup-logo.png" alt="JSP" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/typicode/json-server" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/json.png" alt="JSON Server" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Concepts & Methodologies
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Fundamentals-informational?style=flat-square&color=blue" alt="SQL Fundamentals"/>
+  <img src="https://img.shields.io/badge/SDLC-Model-informational?style=flat-square&color=blue" alt="SDLC"/>
+  <img src="https://img.shields.io/badge/Agile-Process-informational?style=flat-square&color=blue" alt="Agile"/>
+  <img src="https://img.shields.io/badge/SAP-S%2F4HANA_ABAP-blue?style=flat-square" alt="S4HANA ABAP"/>
+</p>
+
 
 ### 🔥 Featured Projects
 
@@ -52,6 +139,9 @@ A complete Spring Boot + JSP-based employee CRUD system with email notifications
 
 ### ✨ Fun Fact  
 I’m vegetarian 🌱 and love creating clean, useful, and impactful software from scratch!
+
+
+
 
 
 

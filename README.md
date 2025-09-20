@@ -102,7 +102,7 @@ I'm passionate about building efficient, secure, and user-friendly software syst
 
 ### Featured Projects
 
-#### 🚘 [GateTrack-VMS])
+#### 🚘 [GateTrack-VMS](https://github.com/pournimaghude/GateTrack-VMS)
 > *Smart, Secure & Scalable Vehicle Entry System*
 An intelligent gate entry tracker system to manage real-time vehicle in/out tracking for organizations.<br>
 🔹 Real-time vehicle tracking at organization gates  
